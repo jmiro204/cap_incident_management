@@ -35,6 +35,11 @@
                 "support"
               ]
             },
+             "alice1": {
+              "roles": [
+                "support"
+              ]
+            },
             "bob": {
               "roles": [
                 "support"
